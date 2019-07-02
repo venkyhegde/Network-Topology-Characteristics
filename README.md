@@ -1,0 +1,16 @@
+# Network-Topology-Characteristics
+Goal of this project is to design and develop Graph Abstract Data Type and implement some of the important Characteristics of network topology.
+![myimage-alt-tag](./Presentation/1.jpg)
+![myimage-alt-tag](./Presentation/2.jpg)
+![myimage-alt-tag](./Presentation/3.jpg)
+![myimage-alt-tag](./Presentation/4.jpg)
+![myimage-alt-tag](./Presentation/5.jpg)
+![myimage-alt-tag](./Presentation/6.jpg)
+![myimage-alt-tag](./Presentation/7.jpg)
+![myimage-alt-tag](./Presentation/8.jpg)
+![myimage-alt-tag](./Presentation/9.jpg)
+![myimage-alt-tag](./Presentation/10.jpg)
+![myimage-alt-tag](./Presentation/11.jpg)
+![myimage-alt-tag](./Presentation/12.jpg)
+![myimage-alt-tag](./Presentation/13.jpg)
+![myimage-alt-tag](./Presentation/14.jpg)
